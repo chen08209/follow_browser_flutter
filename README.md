@@ -17,4 +17,8 @@ material3 动态主题
 便捷的书签导入
 
 ## 快照
-![](https://github.com/chen08209/follow_browser_flutter/blob/main/snapshot/Screenshot_2023-02-04-20-56-41-290_com.example.fo.jpg)
+
+<img src="./snapshot/Screenshot_2023-02-04-20-56-41-290_com.example.fo.jpg" width="200px"  alt="noFound"/>
+<img src="./snapshot/Screenshot_2023-02-04-20-56-13-291_com.example.fo.jpg" width="200px"  alt="noFound"/>
+<img src="./snapshot/Screenshot_2023-02-04-20-56-30-004_com.example.fo.jpg" width="200px"  alt="noFound"/>
+<img src="./snapshot/Screenshot_2023-02-04-20-56-47-570_com.example.fo.jpg" width="200px"  alt="noFound"/>
