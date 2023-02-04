@@ -17,8 +17,7 @@ material3 动态主题
 便捷的书签导入
 
 ## 快照
-
-<img src="./snapshot/Screenshot_2023-02-04-20-56-41-290_com.example.fo.jpg" width="200px"  alt="noFound"/>
-<img src="./snapshot/Screenshot_2023-02-04-20-56-13-291_com.example.fo.jpg" width="200px"  alt="noFound"/>
-<img src="./snapshot/Screenshot_2023-02-04-20-56-30-004_com.example.fo.jpg" width="200px"  alt="noFound"/>
-<img src="./snapshot/Screenshot_2023-02-04-20-56-47-570_com.example.fo.jpg" width="200px"  alt="noFound"/>
+![snapshot1](snapshot/snapshot1.jpg)
+![snapshot2](snapshot/snapshot2.jpg)
+![snapshot3](snapshot/snapshot3.jpg)
+![snapshot4](snapshot/snapshot4.jpg)
