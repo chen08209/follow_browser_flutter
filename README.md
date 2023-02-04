@@ -17,7 +17,4 @@ material3 动态主题
 便捷的书签导入
 
 ## 快照
-![snapshot1](snapshot/snapshot1.jpg)
-![snapshot2](snapshot/snapshot2.jpg)
-![snapshot3](snapshot/snapshot3.jpg)
-![snapshot4](snapshot/snapshot4.jpg)
+<img src="snapshot/snapshot1.jpg" alt="snapshot1" width="200px"/><img src="snapshot/snapshot2.jpg" alt="snapshot2" width="200px" /><img src="snapshot/snapshot3.jpg" alt="snapshot3" width="200px" /><img src="snapshot/snapshot4.jpg" alt="snapshot4" width="200px" />
